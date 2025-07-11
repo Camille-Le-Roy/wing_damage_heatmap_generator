@@ -18,5 +18,5 @@ the code has been revised for clarity and reusability.
 
 ## Input Requirements
 
-- initial model images for building the heatmap for Forewings and Hindwings
+- Initial model images for building the heatmap for Forewings and Hindwings
 - Folder of PNG Images for Heatmap Generation: the code goes through folders containing multiple wing images. Each image should show a single wing, with damaged areas marked in red (color value: 0.7294118).
