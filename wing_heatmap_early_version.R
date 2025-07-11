@@ -4,8 +4,8 @@ library(rgl)
 library(rglwidget)
 
 # load specimens wings
-All_Wing <-readland.tps("F:/Camille Le Roy/Stage M2 Camille_2017/Morphometry/All_wings analysis/FOUR_wings.tps")
-All_ID <-read.csv("F:/Camille Le Roy/Stage M2 Camille_2017/Morphometry/All_wings analysis/All_ID.csv",h=T,sep=";")
+All_Wing <-readland.tps("F://Morphometry/All_wings analysis/FOUR_wings.tps")
+All_ID <-read.csv("F://Morphometry/All_wings analysis/All_ID.csv",h=T,sep=";")
 
 
 ## Plotting a wing shape (found your ID in 'All_ID')
