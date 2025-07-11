@@ -6,6 +6,8 @@ This R code allows generating heatmaps of wing damage frequency from image and m
   <img src="images/heatmap_example.png" alt="Wing Damage Heatmap" width="400"/>
 </p>
 
+Originally developed during my PhD (see https://journals.biologists.com/jeb/article/222/16/jeb204057/223419/Effects-of-natural-wing-damage-on-flight),
+the code has been revised for clarity and reusability.
 
 ## Features
 
