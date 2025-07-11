@@ -2,7 +2,10 @@
 
 This R code allows generating heatmaps of wing damage frequency from image and morphometrics data.
 
-![Wing Damage Heatmap](heatmap_example.png)
+<p align="center">
+  <img src="images/heatmap_example.png" alt="Wing Damage Heatmap" width="400"/>
+</p>
+
 
 ## Features
 
